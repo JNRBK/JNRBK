@@ -1,14 +1,13 @@
 <H1 align=center>
-Hi there 👋 
+Hi 👋 
+
+  <sup>I'm</sup> Rafeek
   
-  I'm Rafeek from Egypt :egypt:
 </H1>
 <H2 align=center>
   <sup>making my way into tech world.</sup>
   
   <sup>SWE self-paced Course with the one and amazing ALX & Holberton school</sup>
-  
-  <sup>Programmer in the making</sup>
 </H2>
 <p align="left">
   <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
