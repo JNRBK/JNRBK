@@ -14,7 +14,7 @@ Hi 👋
   
 </p>
 
- ``🌱 I’m currently learning``
+ ``🌱 I’m learning``
 * <img src="https://img.shields.io/badge/C Language-8A2BE2">
 * <img src="https://img.shields.io/badge/Python-8A2BE2">
 >
